@@ -8,7 +8,7 @@ def getMode():
         else:
             print("Invalid Input")
 def getText():
-    print("Entert text, please.")
+    print("Enter text.")
     return input()
 def getKey():
     key = 0
